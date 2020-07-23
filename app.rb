@@ -5,13 +5,10 @@ class App < Sinatra::Base
   get /name do 
   end 
   
-  get /name do 
+  get /hometown do 
   end
   
-  get /name do 
-  end
-  
-  get /name do 
+  get /favorite-song do 
   end
   
 end
